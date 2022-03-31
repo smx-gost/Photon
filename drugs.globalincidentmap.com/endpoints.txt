@@ -1,0 +1,4 @@
+https://sparrow.cloudflare.com/api/v1/event
+https://api.radar.cloudflare.com/beacon.js
+https://www.cloudflare.com/5xx-error-landing
+/cdn-cgi/styles/main.css

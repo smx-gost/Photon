@@ -1,0 +1,6 @@
+http://drugs.globalincidentmap.com/./js/prototype.js
+http://drugs.globalincidentmap.com/./js/utils2.js
+http://drugs.globalincidentmap.com/./js/utils3.js?1.02
+http://drugs.globalincidentmap.com/./js/tween.js
+http://drugs.globalincidentmap.com/./js/utils.js?1.02
+http://drugs.globalincidentmap.com/./js/calendar_full.js
